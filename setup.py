@@ -18,7 +18,7 @@ setup(
         "haversine",
         "mercantile",
         "numexpr",
-        "numpy",
+        "numpy==1.16.6",
         "Pillow",
         "rasterio[s3]>=1.0.9",
         "requests",
